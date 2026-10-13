@@ -1,0 +1,1 @@
+# skystore-bg-remover
